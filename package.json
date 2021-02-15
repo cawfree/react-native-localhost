@@ -7,6 +7,14 @@
   "author": "Alex Thomas (@cawfree) <hello@cawfree.com>",
   "license": "MIT",
   "private": false,
+  "keywords": [
+    "react-native",
+    "localhost",
+    "local",
+    "machine",
+    "ip",
+    "address"
+  ],
   "scripts": {
     "postinstall": "node scripts/postinstall"
   },

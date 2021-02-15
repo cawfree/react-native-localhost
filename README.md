@@ -21,7 +21,7 @@ import { Text } from 'react-native';
 import localhost from 'react-native-localhost';
 
 export default function App(): JSX.Element {
-  return <Text>{`Development machine is running on: ${localhost}`}</Text>
+  return <Text>{`Development machine is running on: ${localhost}`}</Text>;
 }
 ```
 

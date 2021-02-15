@@ -1,0 +1,17 @@
+{
+  "name": "react-native-localhost",
+  "version": "1.0.0",
+  "description": "⚛️ 🏡 Returns the local address of your actual development machine.",
+  "main": "index.js",
+  "repository": "https://github.com/cawfree/react-native-localhost",
+  "author": "Alex Thomas (@cawfree) <hello@cawfree.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "postinstall": "node scripts/postinstall"
+  },
+  "dependencies": {
+    "app-root-path": "^3.0.0",
+    "ip": "^1.1.5"
+  }
+}
